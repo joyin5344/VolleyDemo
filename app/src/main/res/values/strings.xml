@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VolleyDemo</string>
+    <string name="dialog_info_ok">我知道了</string>
+</resources>

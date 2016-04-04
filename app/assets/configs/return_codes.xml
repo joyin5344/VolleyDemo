@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<return_data>
+    <item>
+        <code>1</code>
+        <data>无效IP地址</data>
+    </item>
+    <item>
+        <code>101</code>
+        <data>服务器错误</data>
+    </item>
+    <item>
+        <code>102</code>
+        <data>用户未登录</data>
+    </item>
+    <item>
+        <code>103</code>
+        <data>商品已下架</data>
+    </item>
+</return_data>

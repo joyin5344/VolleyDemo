@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:state_focused="true">
+        <shape>
+            <corners android:bottomLeftRadius="5dp" android:bottomRightRadius="5dp" />
+            <solid android:color="@color/bg_dialog_option_pressed" />
+        </shape>
+    </item>
+    <item android:state_selected="true">
+        <shape>
+            <corners android:bottomLeftRadius="5dp" android:bottomRightRadius="5dp" />
+            <solid android:color="@color/bg_dialog_option_pressed" />
+        </shape>
+    </item>
+    <item android:state_pressed="true">
+        <shape>
+            <corners android:bottomLeftRadius="5dp" android:bottomRightRadius="5dp" />
+            <solid android:color="@color/bg_dialog_option_pressed" />
+        </shape>
+    </item>
+    <item android:drawable="@android:color/transparent" />
+
+</selector>
